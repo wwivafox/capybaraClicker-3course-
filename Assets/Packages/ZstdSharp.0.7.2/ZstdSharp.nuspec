@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZstdSharp</id>
+    <version>0.7.2</version>
+    <authors>Crauzer</authors>
+    <license type="expression">GPL-3.0-only</license>
+    <licenseUrl>https://licenses.nuget.org/GPL-3.0-only</licenseUrl>
+    <icon>zstd.png</icon>
+    <projectUrl>https://github.com/Crauzer/ZstdSharp</projectUrl>
+    <description>Wrapper for the native Zstandard compression library</description>
+    <tags>compression decompression zstandard zstd library wrapper</tags>
+    <repository url="https://github.com/Crauzer/ZstdSharp" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+</package>
